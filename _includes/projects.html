@@ -1,7 +1,6 @@
 {% assign projects = site.data.data.projects %}
 {% if projects %}
 <section class="section projects-section">
-
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -9,26 +8,20 @@
     </span>
     {{ projects.title }}
   </h2>
-
   {% if projects.intro %}
   <div class="intro">
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
-
   {% for project in projects.assignments %}
     <div class="item">
-
       <span class="project-title">
         <a href="{{ project.link }}">{{ project.title }}</a>
       </span>
-
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
-
     </div><!--//item-->
   {% endfor %}
-
 </section><!--//section-->
 {% endif %}
