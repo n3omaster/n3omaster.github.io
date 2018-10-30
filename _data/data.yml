@@ -54,18 +54,14 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: Ciphered communications Tecnician
+    - degree: Ciphered communications Technician
       university: MINFAR
       time: 2009 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        ...
 
           - Criptography tecnics
-          - Advanced Computar Communications
+          - Advanced Computer Communications
 
     - degree: Lic in Computer Science
       university: ISPEJV University
@@ -121,7 +117,7 @@ experiences:
           - Module dev & management
           - Human Resourses IT Teaching
 
-    - role: Ciphered Comunications Tecnician
+    - role: Ciphered Communications Technician
       time: 2009 - 2013
       company: MINFAR, Cuba
       details: |
@@ -196,7 +192,7 @@ skills:
       - name: HTML5 & CSS
         level: 99%
 
-      - name: SEO & Web optimizatio
+      - name: SEO & Web optimization
         level: 85%
 
       - name: Wordpress
