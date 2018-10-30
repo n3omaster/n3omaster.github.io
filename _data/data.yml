@@ -170,22 +170,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PHP7 & Codeigniter & OOP
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Angular
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 99%
+
+      - name: SEO & Web optimizatio
         level: 85%
+
+      - name: Wordpress
+        level: 93%
+
+      - name: PrestaShop
+        level: 80%
 
       - name: Sketch & Photoshop
         level: 60%
 
-footer: Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: Working with <i class="fas fa-heart"></i> in <a href="https://www.qvaqui.com" target="_blank">Qvaqui</a>
