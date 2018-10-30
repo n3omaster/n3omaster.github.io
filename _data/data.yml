@@ -16,7 +16,7 @@ sidebar:
     gitlab: neosoft2014
     bitbucket:
     twitter: '@ErichGarciaCruz'
-    stack-overflow: 4681874/erich-garcía #Number/Username, e.g. 123456/alandoe
+    stack-overflow: 4681874/erich-garcía
     codewars:
 
     languages:
@@ -43,7 +43,7 @@ sidebar:
         link: www.qvashop.com
 
 career-profile:
-    title: Full Stack Web Development
+    title: Full Stack Web Development & SEO
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -54,6 +54,19 @@ career-profile:
       Second paragraph if required.
 
 education:
+    - degree: Ciphered communications Tecnician
+      university: MINFAR
+      time: 2009 - 2010
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Criptography tecnics
+          - Advanced Computar Communications
+
     - degree: Lic in Computer Science
       university: ISPEJV University
       time: 2004 - 2010
@@ -114,7 +127,7 @@ experiences:
       details: |
         ...
 
-          - Comunications
+          - Communications
           - Ciphered data
           - UNIX|Lunix
           - Work Organization
