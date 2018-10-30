@@ -6,7 +6,7 @@ baseurl: '/'
 theme_skin: blue
 
 # Tracker
-#analytics: UA-83979019-1
+analytics: UA-64168215-7
 
 # Sass/SCSS
 sass:
