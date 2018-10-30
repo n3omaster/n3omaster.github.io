@@ -15,7 +15,7 @@ sass:
 
 # Build settings
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
+compress_html:
   clippings: all
   ignore:
     envs: development
