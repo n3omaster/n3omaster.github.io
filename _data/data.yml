@@ -10,10 +10,10 @@ sidebar:
     # Sidebar links
     email: ecruz@bachecubano.com
     phone: +53 5 514 9081
-    website: www.bachecubano.com #do not add http://
+    website: www.bachecubano.com
     linkedin: erichjosegarcia
     github: n3omaster
-    gitlab:
+    gitlab: neosoft2014
     bitbucket:
     twitter: '@ErichGarciaCruz'
     stack-overflow: 4681874/erich-garcía #Number/Username, e.g. 123456/alandoe
@@ -36,8 +36,14 @@ sidebar:
       - item: Cooking
         link:
 
+      - item: Cuban eCommerce
+        link: www.bachecubano.com
+
+      - item: Cuban eShop
+        link: www.qvashop.com
+
 career-profile:
-    title: Career Profile
+    title: Full Stack Web Development
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -48,9 +54,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Lic in Computer Science
+      university: ISPEJV University
+      time: 2004 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -58,12 +64,12 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+          - Dev Skills
+          - System Analisis
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachiller Ciencias
+      university: Bachiller
+      time: 2001 - 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -71,8 +77,8 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+          - Teaching skills
+          - Fast learning skills
 
 experiences:
     - role: Lead Developer
@@ -92,31 +98,26 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Network Admin & Software Development
+      time: 2013 - 2015
+      company: CUJAE, Cuba
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        ...
 
-          - Bullet point
-          - Bullet point
+          - Moodle implementation & extend
+          - Module dev & management
+          - Human Resourses IT Teaching
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Ciphered Comunications Tecnician
+      time: 2009 - 2013
+      company: MINFAR, Cuba
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        ...
 
-          - Bullet point
-          - Bullet point
+          - Comunications
+          - Ciphered data
+          - UNIX|Lunix
+          - Work Organization
 
 projects:
     title: Projects
@@ -194,4 +195,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: Working with <i class="fas fa-heart"></i> in <a href="https://www.qvaqui.com" target="_blank">Qvaqui</a>
+footer: >
+    Working with <i class="fas fa-heart"></i> in <a href="https://www.qvaqui.com" target="_blank">Qvaqui</a>
